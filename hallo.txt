@@ -2,5 +2,5 @@ Hallo World!
 new row with 1 new word
 another row
 
-Hallo Git!
+
 hallo git rebase
